@@ -1,2 +1,2 @@
 # pjwinters.com
-personal website
+personal website using aws s3 bucket and codepipeline
